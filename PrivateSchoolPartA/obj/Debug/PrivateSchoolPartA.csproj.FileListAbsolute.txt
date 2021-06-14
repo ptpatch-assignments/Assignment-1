@@ -1,0 +1,7 @@
+C:\Users\Rustle\source\repos\PrivateSchoolPartA\PrivateSchoolPartA\bin\Debug\PrivateSchoolPartA.exe.config
+C:\Users\Rustle\source\repos\PrivateSchoolPartA\PrivateSchoolPartA\bin\Debug\PrivateSchoolPartA.exe
+C:\Users\Rustle\source\repos\PrivateSchoolPartA\PrivateSchoolPartA\bin\Debug\PrivateSchoolPartA.pdb
+C:\Users\Rustle\source\repos\PrivateSchoolPartA\PrivateSchoolPartA\obj\Debug\PrivateSchoolPartA.csprojAssemblyReference.cache
+C:\Users\Rustle\source\repos\PrivateSchoolPartA\PrivateSchoolPartA\obj\Debug\PrivateSchoolPartA.csproj.CoreCompileInputs.cache
+C:\Users\Rustle\source\repos\PrivateSchoolPartA\PrivateSchoolPartA\obj\Debug\PrivateSchoolPartA.exe
+C:\Users\Rustle\source\repos\PrivateSchoolPartA\PrivateSchoolPartA\obj\Debug\PrivateSchoolPartA.pdb
